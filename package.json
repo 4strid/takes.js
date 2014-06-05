@@ -1,0 +1,14 @@
+{
+    "name": "takes"
+  , "description": "rip apart arrays or hashes into new, exciting forms"
+  ,	"version": "0.1.0"
+  , "author": "Peter Fesz-Nguyen"
+  ,	"homepage": "https://github.com/ctrl-alt-meh/takes.js"
+  ,	"keywords": ["array", "manipulation","enumerate","properties"]
+  , "repository": {
+  		  "type": "git"
+  	  ,	"url": "http://github.com/ctrl-alt-meh/takes.js.git"
+  	}
+  ,	"main": "takes"
+  , "license": "MIT"
+}
